@@ -1,4 +1,4 @@
-# Andy Tran's data science, biostatistics and ML project portfolio
+## Andy Tran's data science, biostatistics and ML project portfolio
 
 Based on a Minimal Mistakes Jekyll theme for GitHub Pages [1] modified for academic personal websites and forked from [2].
 
